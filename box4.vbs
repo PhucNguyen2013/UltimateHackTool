@@ -1,0 +1,1 @@
+x=msgbox("Cannot find any bloatware",0+48,"Missing Candy Crush Sugar")

@@ -1,0 +1,1 @@
+X=msgbox("Windows cannot find any bloatware so it destroy itself",0+16,"Error")
